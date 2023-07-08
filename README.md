@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Elzayat</h1>
-<h3 align="center">Software engineering student with expertise in C++, Python, and Java. Passionate about Machine Learning and developing complex systems.</h3>
+<h3 align="center">Software engineering student with expertise in C++, Python, and Java. Passionate about Machine Learning and Web Development.</h3>
 
 📫 How to reach me: **ahmed.elzayat077@gmail.com**
 
