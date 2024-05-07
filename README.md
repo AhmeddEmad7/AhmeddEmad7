@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Elzayat</h1>
 <h3 align="center">Software and Biomedical engineering student with expertise in Python, C++ and JavaScript. Enthusiastic about Artificial Intelligence and Web Development.
 
-📫 Reach me @: **ahmed.elzayat077@gmail.com**
+📫 Reach me @ **ahmed.elzayat077@gmail.com**
 
 
 
