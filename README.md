@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Elzayat</h1>
 <h3 align="center">AI and Biomedical Engineering Student. Enthusiastic about Artificial Intelligence, Computer Vision and Software Development.
 
-📫 Reach me @ **ahmed.elzayat077@gmail.com**
+<br>📫 Reach me @ **ahmed.elzayat077@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
