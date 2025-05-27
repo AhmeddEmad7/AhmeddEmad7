@@ -71,8 +71,8 @@
     <img src="https://cdn.prod.website-files.com/65f9ebe58e6225ebad55ef60/674131450446c3e59e82ed51_logo-primary.svg" alt="Lamini" width="90" height="30"/>
   </a>&nbsp;&nbsp;
   
-  <a href="https://arize.com/" target="_blank" rel="noreferrer">
-    <img src="https://arize.com/wp-content/themes/arize-2022/images/Arize-logo.svg" alt="Arize" width="90" height="30"/>
+  <a href="https://phoenix.arize.com/" target="_blank" rel="noreferrer">
+    <img src="https://pbs.twimg.com/profile_images/1652081979146506240/e2xH7qJL_400x400.png" alt="Phoenix" width="50" height="50"/>
   </a>
 </p>
 
