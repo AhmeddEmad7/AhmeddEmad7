@@ -1,5 +1,4 @@
 <h1 align="center">Hello 👋,  it's Ahmed Elzayat</h1>
-<h2 align="center">AI and Biomedical Engineering Student. Enthusiastic about Artificial Intelligence, Computer Vision and Software Development.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
