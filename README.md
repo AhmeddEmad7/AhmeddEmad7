@@ -1,23 +1,29 @@
 <h1 align="center">Hello 👋,  it's Ahmed Elzayat</h1>
 
-<p align="center">
-  <a href="https://ahmed-elzayat.vercel.app" target="_blank" style="text-decoration: none;">
-    <strong style="font-size: 50px; color: #0a66c2;">🌐 Visit My Portfolio</strong>
-  </a>
-</p>
+<div align="center">
 
-### **Connect with me:**
-<p align="left">
-  <!-- Gmail Icon -->
-  <a href="mailto:ahmed.elzayat077@gmail.com" target="_blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" height="40" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <!-- LinkedIn Icon -->
-  <a href="https://linkedin.com/in/ahmed-elzayat-baab95234" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
-  </a>
-</p>
+  <p>You can connect with me or explore my work below:</p>
+
+  <p>
+    <!-- Portfolio -->
+    <a href="https://ahmed-elzayat.vercel.app" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=aJPLw-4jUCR3&format=png&color=000000" alt="Portfolio" height="40" width="40" />
+    </a>
+    &nbsp;&nbsp;
+    <!-- Gmail Icon -->
+    <a href="mailto:ahmed.elzayat077@gmail.com" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" height="40" width="40" />
+    </a>
+    &nbsp;&nbsp;
+    <!-- LinkedIn Icon -->
+    <a href="https://linkedin.com/in/ahmed-elzayat-baab95234" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+    </a>
+  </p>
+
+</div>
+
+
 
 ### **Languages:**
 <p align="left">
