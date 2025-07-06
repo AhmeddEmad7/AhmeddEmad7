@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <p>You can connect with me or explore my work below:</p>
+  <h4>You can connect with me or explore my work below:</h4>
 
   <p>
     <!-- Portfolio -->
