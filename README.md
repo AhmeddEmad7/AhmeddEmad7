@@ -1,7 +1,6 @@
 <h1 align="center">Hello 👋,  it's Ahmed Elzayat</h1>
 
 <p align="center">
-  📫 Reach me at: **ahmed.elzayat077@gmail.com**
   <img src="prog_animation.gif" alt="Programmer coding GIF" width="700"/>
 </p>
 
@@ -9,11 +8,6 @@
 
 ### **Connect with me:**
 <p align="left">
-    <!-- Portfolio -->
-    <a href="https://ahmed-elzayat.vercel.app" target="_blank">
-      <img src="https://img.icons8.com/?size=100&id=aJPLw-4jUCR3&format=png&color=000000" alt="Portfolio" height="40" width="40" />
-    </a>
-    &nbsp;&nbsp;
     <!-- Gmail Icon -->
     <a href="mailto:ahmed.elzayat077@gmail.com" target="_blank">
       <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" height="40" width="40" />
