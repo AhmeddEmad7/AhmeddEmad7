@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋,  it's Ahmed Elzayat</h1>
 
 <p align="center">
-  <img src="animation.gif" alt="Programmer coding GIF" width="300"/>
+  <img src="prog_animation.gif" alt="Programmer coding GIF" width="300"/>
 </p>
 
 <div align="center">
