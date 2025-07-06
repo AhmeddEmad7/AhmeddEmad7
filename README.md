@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋,  it's Ahmed Elzayat</h1>
 
-<h3 align="left">Connect with me:</h3>
+### **Connect with me:**
 <p align="left">
   <!-- Gmail Icon -->
   <a href="mailto:ahmed.elzayat077@gmail.com" target="_blank">
@@ -12,9 +12,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
 </p>
-
-<br>
-
 
 ### **Languages:**
 <p align="left">
