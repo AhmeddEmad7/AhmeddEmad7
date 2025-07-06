@@ -1,5 +1,9 @@
 <h1 align="center">Hello 👋,  it's Ahmed Elzayat</h1>
 
+<p align="center">
+  <img src="PUT_YOUR_GIF_URL_HERE" alt="Programmer coding GIF" width="300"/>
+</p>
+
 <div align="center">
 
   <h4>You can connect with me or explore my work below:</h4>
@@ -57,7 +61,7 @@
   <a href="https://nipy.org/nibabel/" target="_blank" rel="noreferrer"> <img src="https://nipy.org/nibabel/_static/nibabel-logo.svg" alt="nibabel" width="40" height="40"/> </a>
 </p>
 
-### **NLP:**
+### **Natural Language Processing:**
 <p align="left">
   <a href="https://python.langchain.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/langchain-ai/langchain/blob/master/docs/static/img/brand/wordmark.png" alt="LangChain" width="130" height="30"/>
@@ -84,7 +88,7 @@
   </a>
 </p>
 
-### **Frontend:**
+### **Frontend Development:**
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
@@ -95,7 +99,7 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 </p>
 
-### **Backend & DevOps:**
+### **Backend Development & DevOps:**
 
 <p align="left">
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="flask" width="40" height="40"/> </a>
@@ -108,3 +112,7 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/> </a>
 </p>
+
+<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=AhmeddEmad7&show_icons=true&locale=en" alt="AhmeddEmad7" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmeddEmad7&show_icons=true&locale=en&layout=compact" alt="AhmeddEmad7" /></p>
