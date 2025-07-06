@@ -1,17 +1,17 @@
 <h1 align="center">Hello 👋,  it's Ahmed Elzayat</h1>
 
 <p align="center">
-  <img src="prog_animation.gif" alt="Programmer coding GIF" width="300"/>
+  📫 Reach me at: **ahmed.elzayat077@gmail.com**
+  <img src="prog_animation.gif" alt="Programmer coding GIF" width="700"/>
 </p>
 
-<div align="center">
 
-  <h4>You can connect with me or explore my work below:</h4>
 
-  <p>
+### **Connect with me:**
+<p align="left">
     <!-- Portfolio -->
     <a href="https://ahmed-elzayat.vercel.app" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=aJPLw-4jUCR3&format=png&color=000000" alt="Portfolio" height="40" width="40" />
+      <img src="https://img.icons8.com/?size=100&id=aJPLw-4jUCR3&format=png&color=000000" alt="Portfolio" height="40" width="40" />
     </a>
     &nbsp;&nbsp;
     <!-- Gmail Icon -->
@@ -24,11 +24,7 @@
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
     </a>
   </p>
-
-</div>
-
-
-
+  
 ### **Languages:**
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
