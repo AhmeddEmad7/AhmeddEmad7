@@ -92,7 +92,7 @@
 <p align="left">
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="flask" width="40" height="40"/> </a>
    <a href="https://www.uvicorn.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.uvicorn.org/uvicorn.png" alt="Uvicorn" width="100" height="40"/>
+    <img src="https://www.uvicorn.org/uvicorn.png" alt="Uvicorn" width="40" height="20"/>
   </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="80" height="40"/> </a>
   <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a>
